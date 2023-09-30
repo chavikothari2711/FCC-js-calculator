@@ -1,0 +1,38 @@
+body {
+  background: #c2c2d6;
+}
+.result {
+  height: 60px;
+  background-color: #000;
+  width: 100%;
+  color: #fff;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 15px;
+}
+.calculator {
+  text-align: center;
+}
+.calculator-body {
+  max-width: 400px;
+  margin: 15% auto 0 auto;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  background: #4d4d4d;
+  color: #fff;
+}
+.AC {
+  background-color: #ac3939;
+}
+.mainKey {
+  background: #666666;
+}
+.answer {
+  background: rgb(0, 68, 102);
+}
